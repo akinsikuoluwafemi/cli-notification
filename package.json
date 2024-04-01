@@ -9,10 +9,12 @@
 	"type": "module",
 	"keywords": [
 		"cli-alerts",
+		"cli-alerts",
+		"cli-notifications",
 		"Femi Akinsiku",
 		"femiakinsiku"
 	],
-	"author": "",
+	"author": "Femi Akinsiku",
 	"license": "MIT",
 	"devDependencies": {
 		"prettier": "^3.2.5"
