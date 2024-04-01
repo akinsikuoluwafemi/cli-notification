@@ -12,7 +12,7 @@ alert({
 
 alert({
   type: `info`,
-  msg: `Dont forget to sue lowercase`
+  msg: `Dont forget to use lowercase`
 })
 alert({
   type: `warning`,

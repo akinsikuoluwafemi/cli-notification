@@ -14,7 +14,6 @@
 		"Femi Akinsiku",
 		"femiakinsiku"
 	],
-	"author": "Femi Akinsiku",
 	"license": "MIT",
 	"devDependencies": {
 		"prettier": "^3.2.5"
@@ -22,6 +21,12 @@
 	"dependencies": {
 		"chalk": "^5.3.0",
 		"log-symbols": "^6.0.0"
+	},
+	"repository": "akinsikuoluwafemi/cli-notification",
+	"author": {
+		"name": "Akinsiku Oluwafemi",
+		"email": "akinsiku13@gmail.com",
+		"url": "https://femiakin.com"
 	},
 	"scripts": {
 		"test": "node test.js",
