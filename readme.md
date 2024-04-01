@@ -1,4 +1,6 @@
-### CLI ALERTS
+![cli-notification screenshot](./.github/cli-alerts.png)
+
+# CLI ALERTS
 
 ## Usage
 
