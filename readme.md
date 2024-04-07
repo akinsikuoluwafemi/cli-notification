@@ -2,6 +2,16 @@
 
 # CLI ALERTS
 
+```
+Cross platform CLI Alerts with colors & colored symbols for success, info, warning, error. Work on macOS, Linux, and Windows.
+```
+
+### Install
+
+```
+npm install cli-notification
+```
+
 ## API
 
 ### alert(options)
